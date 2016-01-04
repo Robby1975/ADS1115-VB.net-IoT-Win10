@@ -37,13 +37,5 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 2
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://tfs.itsrs.de:8090/tfs/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = IOT\u0020ADS1115\u0020ADC\u002016Bit\\IOT\u0020ADS1115\u0020ADC\u002016Bit.vbproj
-		SccProjectName1 = IOT\u0020ADS1115\u0020ADC\u002016Bit
-		SccLocalPath1 = IOT\u0020ADS1115\u0020ADC\u002016Bit
-	EndGlobalSection
+
 EndGlobal
